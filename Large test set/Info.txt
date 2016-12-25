@@ -1,0 +1,2 @@
+testset from 11 different embryos
+20 images per stage, no more than 4 pictures from the same embryo, 8 stages

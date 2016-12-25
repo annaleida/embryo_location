@@ -1,0 +1,3 @@
+Short test series (from Circle search evaluation) has been used as training set.
+
+The rest as test images.Images are from Fertilitech test images, but the image index in series has been changed!
